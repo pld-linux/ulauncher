@@ -1,7 +1,7 @@
 Summary:	Linux Application Launcher
 Name:		ulauncher
 Version:	5.8.0
-Release:	4
+Release:	5
 License:	GPL v3+
 Group:		X11/Applications
 Source0:	https://github.com/Ulauncher/Ulauncher/releases/download/%{version}/%{name}_%{version}.tar.gz
